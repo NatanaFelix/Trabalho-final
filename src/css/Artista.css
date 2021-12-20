@@ -1,0 +1,15 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.tabelaArtista{
+    background-color: #535568cc;
+    opacity: 4;
+    color: white;
+}
+
+.listaItem{
+    background-color: #535568cc;
+    opacity: 4;
+    color: white; 
+}

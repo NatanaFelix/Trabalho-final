@@ -1,0 +1,20 @@
+h1{
+    color: white;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+
+.card{
+    background-color: #535568cc;
+    opacity: 4;
+    color: white;
+    align-content: center;
+}
+
+.link:hover{
+    color: #F16A8C;
+}
+

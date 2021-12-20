@@ -1,0 +1,31 @@
+.info{
+    color: white;    
+    margin-top: 20px; 
+}
+
+.listaInfo{
+    background-color: #535568cc;
+    color: white;     
+}
+
+.btn:hover{
+    background: #F16A8C;
+}
+
+.btn{
+    background-color: #292a3c;
+}
+
+.tops{
+    margin-top: 20px;
+}
+
+.itemLetra{
+    background-color: #535568cc;
+    color: white; 
+}
+
+.itemAlbum{
+    background-color: #535568cc;
+    color: white; 
+}

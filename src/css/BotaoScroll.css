@@ -1,0 +1,11 @@
+.sobe{
+    color: white;
+    font-size: 50px;
+    float: right;
+    margin-right: 50px; 
+    margin-bottom: 30px;   
+}
+
+.sobe:hover{
+    color: #F16A8C;
+}

@@ -1,0 +1,17 @@
+h2{
+    color: white;
+}
+
+.lista{
+    background-color: #535568cc;
+}
+
+.listaItem{
+    background-color: #535568cc;
+    color: white; 
+}
+
+.listaItem:hover{
+    background-color: #F16A8C;
+}
+

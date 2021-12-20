@@ -1,0 +1,37 @@
+.letra{
+    text-align: left;
+}
+
+p{
+    width: 250px;
+}
+
+.cardMusica{
+    margin-top: 30px;
+    
+}
+
+.voltar{
+    width: 80px;
+    height: 40px;
+    padding-top: 15px;
+}
+
+.btn{
+    background-color: #535568cc;
+    color: white;
+}
+
+.btn:hover{
+    background-color: #F16A8C;
+}
+
+.Letra{
+    border-radius: 10px;
+    background-color: #535568cc;
+    color: white;
+    display: flex;
+    width: 300px;
+    padding: 10px;
+    margin-top: 20px;
+}
